@@ -1,7 +1,7 @@
 ---
-title: "Journal (reproducible report)"
-author: "kazi425"
-date: "2020-11-05"
+title: "Journal (Business Data Science Basics)"
+author: "Kazi Mohammad Abidur Rahman"
+date: "2020-11-18"
 output:
   html_document:
     toc: true
