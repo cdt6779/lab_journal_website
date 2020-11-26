@@ -1,7 +1,7 @@
 ---
 title: "Journal (Business Data Science Basics)"
 author: "Kazi Mohammad Abidur Rahman"
-date: "2020-11-18"
+date: "2020-11-26"
 output:
   html_document:
     toc: true
@@ -24,7 +24,9 @@ This is an `.Rmd` file. It is plain text with special features. Any time you wri
 
 Last compiled: `r Sys.Date()`
 
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
+Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left.
+
+testing on linux system
 
 ## Second level header
 
